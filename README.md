@@ -36,7 +36,8 @@ A PowerPoint presentation was created to effectively communicate the findings to
 - Clear visualizations for decision-making.
 
 ## Video Walkthrough
-For a detailed walkthrough of the project, check out the full video on YouTube: https://www.youtube.com/watch?v=TaEPfbd4PQU
+For a detailed walkthrough of the project, check out the full video on 
+YouTube: https://www.youtube.com/watch?v=TaEPfbd4PQU
 
 
 ## Project Outcome
@@ -46,4 +47,5 @@ This project demonstrates the ability to handle complex data analysis, create dy
 If you have any questions or suggestions, feel free to reach out:
 
 Email: partha.official23@gmail.com
+
 LinkedIn: www.linkedin.com/in/partha-halder-p23092000
